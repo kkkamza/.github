@@ -38,6 +38,7 @@
 [![Video Label](http://img.youtube.com/vi/PjMbUsp3zPo/0.jpg)](https://youtu.be/PjMbUsp3zPo)
 
 ## 🪄구현 방식_ 사용 기술 스택
+![image](https://github.com/user-attachments/assets/cd6c344f-106a-438f-b5f4-e010efe8e492)
 
 ### ✔️Frond-end
 💙**React.js** , **Vite** 를 사용했으며, **AWS**로 배포함.
