@@ -26,10 +26,6 @@
 - Decent Work and Economic Growth
 - Responsible Consumption and Production
 
-> `Zero Hunger` : 잉여 식량 거래와 동시에 기부로 
-> `Decent Work and Economic Growth` :
-> `Responsible Consumption and Production` :
-
 ---
 
 ## 🚩서비스 소개
