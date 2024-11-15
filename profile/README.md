@@ -40,11 +40,11 @@
 ## 🪄구현 방식_ 사용 기술 스택
 
 ### ✔️Frond-end
-💙**React.js** 를 사용했으며, **AWS**로 배포함.
+💙**React.js** , **Vite** 를 사용했으며, **AWS**로 배포함.
 - 배포 > [http://kkamza.s3-website.ap-northeast-2.amazonaws.com/](http://kkamza.s3-website.ap-northeast-2.amazonaws.com/)
 
 ### ✔️Back-end
-🍃**Springboot** ,**MySQL** 을 사용했으며, **AWS**로 배포함.
+🍃**Springboot** , **MySQL** 을 사용했으며, **AWS**로 배포함.
 - Swagger > [http://13.60.210.231:8080/swagger-ui/index.html](http://13.60.210.231:8080/swagger-ui/index.html)
 
 ---
