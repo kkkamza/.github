@@ -39,6 +39,8 @@
 [![Video Label](http://img.youtube.com/vi/9jVYueoMs48/0.jpg)](https://youtu.be/9jVYueoMs48)
 👉 클릭하면 영상이 시행됩니다.
 
+---
+
 ## 🪄구현 방식_ 사용 기술 스택
 ![image](https://github.com/user-attachments/assets/cd6c344f-106a-438f-b5f4-e010efe8e492)
 
