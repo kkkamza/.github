@@ -21,7 +21,7 @@
 
 ---
 
-## 🔥 17가지 지속가능한 발전 목표
+## 🔥 17가지 지속가능한 발전 목표 중 해결하고자 하는 것.
 - Zero Hunger
 - Decent Work and Economic Growth
 - Responsible Consumption and Production
