@@ -44,7 +44,7 @@
 - 배포 > [http://kkamza.s3-website.ap-northeast-2.amazonaws.com/](http://kkamza.s3-website.ap-northeast-2.amazonaws.com/)
 
 ### ✔️Back-end
-🍃**Spring** 을 사용했으며, **AWS**로 배포함.
+🍃**Springboot** 을 사용했으며, **AWS**로 배포함.
 - Swagger > [http://13.60.210.231:8080/swagger-ui/index.html](http://13.60.210.231:8080/swagger-ui/index.html)
 
 ---
